@@ -6,3 +6,4 @@ init/main.c:108
 
 kernel/sched/fair.c:27-125
 
+init/main.c:1146
