@@ -28,6 +28,7 @@ https://yadi.sk/i/9_IPmrSKKYdjHg
 
 
 https://yadi.sk/d/9kwGcYlfEZnHEQ  module list process
+
 make;insmod lkm_hello1.ko;rmmod lkm_hello1.ko;dmesg
 
 
