@@ -14,7 +14,7 @@ include/linux/sched.h:6,   637-1292 task_struct   class for process
 https://yadi.sk/d/1uYMIHyf1x74Eg docs
 
 https://yadi.sk/i/N9-Lxz_eZhim_A  linked list
-
+https://github.com/torvalds/linux/blob/master/include/linux/rbtree.h
 
 Кнут 2.2 линейные списки (1 том)
       2.3 деревья       2.3.1 прохождение деревьев
