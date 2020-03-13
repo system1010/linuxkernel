@@ -24,3 +24,7 @@ https://yadi.sk/i/z1CHVvn73z5sHA
 Кнут 6.2.2(3том)    сортировка путем вставки в дерево
 6.2.3 сбалансированные деревья
 https://yadi.sk/i/9_IPmrSKKYdjHg
+
+
+
+https://yadi.sk/d/9kwGcYlfEZnHEQ  module list process
